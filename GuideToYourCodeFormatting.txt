@@ -1,0 +1,3 @@
+Tabs vs Spaces, attached braces or not, etc.
+It doesn't matter.
+Just keep it consistent.
